@@ -1,0 +1,8 @@
+v 4
+file . "regn.vhdl" "2ff6fd9ea3a887143dc0145abb7848b8c8312bc0" "20201021181458.809":
+  entity regn at 1( 0) + 0 on 33;
+  architecture behavioral of regn at 10( 187) + 0 on 34;
+  architecture behavioralconcurrent of regn at 20( 368) + 0 on 35;
+file . "regn_tb.vhdl" "af84d2acf781d6d5e351d7a70662ec1e97c7b6d9" "20201021181506.558":
+  entity regn_tb at 1( 0) + 0 on 36;
+  architecture mixed of regn_tb at 4( 24) + 0 on 37;
